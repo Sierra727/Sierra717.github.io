@@ -31,3 +31,5 @@ nav_list:
   Travel : ['Travel', '/category/travel']
   Inspiration : ['Inpiration', '/category/inspiration']
   Contact : ['Contact', '/contact/']
+
+theme: jekyll-theme-cayman
